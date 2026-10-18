@@ -1,0 +1,19 @@
+共扫描 jpg 图片 4330 张
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\daisy\11694430126_056ffea63c_n.png
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\daisy\34694430126_056ffea63c_n.png
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\dandelion\1069454126_056ffea63c_n.png
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\dandelion\20694430126_056ffea63c_n.png
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\dandelion\31658430126_056ffea63c_n.jpg
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\rose\13658454126_056ffea63c_n.jpg
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\rose\31658430126_056ffea63c_n.jpg
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\sunflower\1214997_8576bf4ea3.png
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\sunflower\6314997_8576bf4ea3.png
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\sunflower\6514952_8576bf4ea3.png
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\tulip\2098797_8576bf4ea3.png
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\tulip\21214940_8576bf4ea3.png
+  损坏: C:\Users\Lenovo\Desktop\花卉识别作业\flower\train\tulip\4414997_8576bf4ea3.png
+损坏图片数量: 13，已全部移动到 bad_images 文件夹
+train: 2763 张
+val: 694 张
+test: 860 张
+预处理完成，处理后的数据集保存在 flower_data 文件夹
